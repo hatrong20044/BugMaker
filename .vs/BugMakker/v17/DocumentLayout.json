@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\game\\BugMakker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{660217FC-0CC3-A379-7986-DA451278E80A}|Assembly-CSharp.csproj|d:\\game\\bugmakker\\assets\\scrips\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{660217FC-0CC3-A379-7986-DA451278E80A}|Assembly-CSharp.csproj|solutionrelative:assets\\scrips\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test.cs",
+              "DocumentMoniker": "D:\\game\\BugMakker\\Assets\\Scrips\\Test.cs",
+              "RelativeDocumentMoniker": "Assets\\Scrips\\Test.cs",
+              "ToolTip": "D:\\game\\BugMakker\\Assets\\Scrips\\Test.cs",
+              "RelativeToolTip": "Assets\\Scrips\\Test.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAtwBwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T15:32:20.419Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
